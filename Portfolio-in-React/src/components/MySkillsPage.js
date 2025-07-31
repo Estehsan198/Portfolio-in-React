@@ -125,7 +125,7 @@ I love to create design which speaks, which connects, Keep it clean, minimal and
     <Develope width={40} height={40} /> Frontend Developer
 </Title>
 <Description>
-I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
+I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life and to reality.
 </Description>
 <Description>
 <strong>Skills</strong>
