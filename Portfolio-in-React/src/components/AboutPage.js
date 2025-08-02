@@ -74,7 +74,7 @@ const AboutPage = () => {
         <Main>
         I'm a front-end developer located in Pakistan. I love to create simple yet beautiful websites with great user experience.
 <br /> <br/>
-Creative and detail-oriented Front-End Developer with a strong foundation in modern web technologies, including HTML5, CSS3, JavaScript (ES6+), and popular frameworks such as React. Passionate about building responsive, user-friendly, and accessible interfaces that enhance user experience across all devices and platforms.<br/> <br/>
+Creative Front-End Developer with a strong foundation in modern web technologies, including HTML5, CSS3, JavaScript (ES6+), and popular frameworks such as React. Passionate about building responsive, user-friendly, and accessible interfaces that enhance user experience across all devices and platforms.<br/> <br/>
 I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
         </Main>
 
