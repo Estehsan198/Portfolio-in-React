@@ -64,9 +64,7 @@ justify-content: space-evenly;
     font-size: calc(0.5rem + 1.5vw);
     font-weight:300;
 
-}
-
-
+}`
 
 
 const Intro = () => {

@@ -17,15 +17,16 @@ I love to create design which speaks, Keep it clean, minimal and simple.
 I LIKE TO DESIGN
 Web Design
 Mobile Apps
-TOOLS
+Web Apps
+API
 Figma
 
 I value business or brand for which i'm creating, thus i enjoy bringing new ideas to life.
 SKILLS
-Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase etc.
+Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase, Clerk etc.
 
 TOOLS
-VScode, Github, Codepen etc.
+VScode, Github, Dockers, Git Bucket etc.
 
 ----------------------------------------------
 
