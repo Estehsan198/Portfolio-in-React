@@ -211,7 +211,7 @@ const Main = () => {
             transition={{ duration: 1.2, delay: 0.5, type: 'spring' }}
         >
             <h1>
-                {click ? "Let's Create Something Amazing!" : "Welcome to My Portfolio"}
+                {click ? "Let's Start" : "Welcome"}
             </h1>
         </TopGreeting>
         <Container>
