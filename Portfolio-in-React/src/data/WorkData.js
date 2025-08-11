@@ -13,7 +13,7 @@ export const Work = [
     {
         id:2,
         name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
+        description:"A Job listing website build in ReactJS. With searching and filtering functionalities & with customize design.",
         tags:["react","sass"],
         
         demo:"http://react-job-listing-website.codebucks27.vercel.app/",
@@ -27,16 +27,16 @@ export const Work = [
         tags:["react","api","sass"],
         
         demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        github:"https://github.com/estehsan198"
     },
     {
         id:4,
         name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
+        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations and graphics.",
         tags:["react","styledComponents","react-router"],
         
         demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        github:"https://github.com/estehsan198"
        
     },{
         id:5,
@@ -45,7 +45,7 @@ export const Work = [
         tags:["react","redux","framer-motion"],
         
         demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        github:"https://github.com/estehsan198 "
         
     },
     {
