@@ -136,7 +136,7 @@ HTML5, CSS, JS, React, Redux, Bootstrap, Tailwind, Firebase, Express, Mongoes, N
 <Description>
 <strong>Tools</strong>
 <p>
-VScode, Github, Codepen, PostMan, Thunder Client etc.
+VScode, Github, Codepen, PostMan, Thunder Client, Vercel etc.
 </p>
 </Description>
 
